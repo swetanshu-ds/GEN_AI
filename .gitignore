@@ -129,6 +129,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+gen_ai/
+.gen_ai
+gen_ai.bak/
+GEN_AI/
+
 
 # Spyder project settings
 .spyderproject
